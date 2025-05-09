@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2502263692",
+    "project_id": "ai-diabetic-retinopathy",
+    "storage_bucket": "ai-diabetic-retinopathy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2502263692:android:0f1f20faa325953db88ca9",
+        "android_client_info": {
+          "package_name": "com.example.ai_detects_diabetic_retinopathy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWqqWB41dQ1unZqbC98SZhNdbZ21HYes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
